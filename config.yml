@@ -1,0 +1,6 @@
+path: /home/kamal/projects/deep_learning_with_pytorch/week10/data
+train: images/train
+val: images/validation
+
+nc: 1
+names: ['Vehicle registration plate']
